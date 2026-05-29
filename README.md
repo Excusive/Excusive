@@ -1,6 +1,6 @@
 ## Hi there 👋 Thanks for stopping by
 
-Building a project portfolio focused on the complete analytics pipeline: data cleaning, scripting, statistical analysis, and visualization — with a designer's attention to clarity and presentation.
+Building a project portfolio focused on the **complete analytics pipeline**: data cleaning, scripting, statistical analysis, and visualization — with a **designer's attention** to clarity and presentation.
 <!--
 **Excusive/Excusive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
