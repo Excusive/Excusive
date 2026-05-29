@@ -29,10 +29,3 @@ Building a project focused on the **complete analytics pipeline**: data cleaning
 ![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Excusive&show_icons=true&theme=transparent&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Excusive&layout=compact&theme=transparent&hide_border=true&langs_count=6)
-
-</div>
