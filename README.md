@@ -30,3 +30,16 @@ Building a project focused on the **complete analytics pipeline**: data cleaning
 ![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
+<!-- Карточка с общей статистикой -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Excusive/github-stats-transparent/output/generated/overview.svg#gh-dark-mode-only">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Excusive/github-stats-transparent/output/generated/overview.svg#gh-light-mode-only">
+  <img src="https://raw.githubusercontent.com/Excusive/github-stats-transparent/output/generated/overview.svg">
+</picture>
+
+<!-- Карточка с языками -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Excusive/github-stats-transparent/output/generated/languages.svg#gh-dark-mode-only">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Excusive/github-stats-transparent/output/generated/languages.svg#gh-light-mode-only">
+  <img src="https://raw.githubusercontent.com/Excusive/github-stats-transparent/output/generated/languages.svg">
+</picture>
