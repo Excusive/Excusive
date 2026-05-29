@@ -30,3 +30,10 @@ Building a project focused on the **complete analytics pipeline**: data cleaning
 ![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
+<div align="center">
+
+### ⏱️ Coding activity:
+
+[![wakatime](https://wakatime.com/badge/user/72646345-f983-4b54-9373-2c86d552c4f0.svg)](https://wakatime.com/@Excusive)
+
+</div>
