@@ -1,4 +1,3 @@
-<div align="center">
 ## Hi there 👋 Thanks for stopping by
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Dimapoverin05@gmail.com)
@@ -7,7 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dmit_rinn?igsh=MWFzYmVvbXB3Z3Fxag==)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/dmitriy.poverin)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Without671260)
-</div>
+
 ## About me:
 Building a project focused on the **complete analytics pipeline**: data cleaning, scripting, statistical analysis, and visualization — with a **designer's attention** to clarity and presentation.
 
@@ -16,7 +15,7 @@ Building a project focused on the **complete analytics pipeline**: data cleaning
 - 🎨 Beyond the code: I also have hands-on **design skills**
 
 ## Things I work with:
-<div align="center">
+
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -30,4 +29,4 @@ Building a project focused on the **complete analytics pipeline**: data cleaning
 ![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-</div>
+
