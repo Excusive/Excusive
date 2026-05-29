@@ -32,8 +32,7 @@ Building a project focused on the **complete analytics pipeline**: data cleaning
 
 <div align="center">
 
-### ⏱️ Coding activity:
-
-[![wakatime](https://wakatime.com/badge/user/72646345-f983-4b54-9373-2c86d552c4f0.svg)](https://wakatime.com/@Excusive)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Excusive&show_icons=true&theme=transparent&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Excusive&layout=compact&theme=transparent&hide_border=true&langs_count=6)
 
 </div>
