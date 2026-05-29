@@ -41,3 +41,5 @@ Building a project focused on the **complete analytics pipeline**: data cleaning
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Excusive/github-stats-transparent/output/generated/languages.svg#gh-light-mode-only">
   <img src="https://raw.githubusercontent.com/Excusive/github-stats-transparent/output/generated/languages.svg">
 </picture>
+
+![Last Commit to Profile Repo](https://img.shields.io/github/last-commit/Exclusive/Exclusive)
